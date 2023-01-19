@@ -1,2 +1,2 @@
-![Header](./github-header-image-camaleaoArredondado.png)
+![Header](./github-header-image-CamaleaoBox.png)
 
